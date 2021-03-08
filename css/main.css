@@ -1,16 +1,16 @@
 html {
-    box-sizing: border-box;
-    background-color: #f2f1ed;
-    font-family: Georgia, serif;
-    line-height: 1.5;
-  }
+  box-sizing: border-box;
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 img {
-width: 100%;
+  width: 100%;
 }
 
 h1, h2 {
@@ -20,9 +20,9 @@ h1, h2 {
 }
 
 figcaption {
-font-size: .8rem;
-font-style: italic;
-text-align: center;
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
 }
 
 nav {
